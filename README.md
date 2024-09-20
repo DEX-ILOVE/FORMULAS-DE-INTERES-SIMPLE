@@ -50,16 +50,20 @@ Tiempo=7
 valoractual=valorPresenteSimple( VF=ValorFuturo, r=Tiempo, t=TasaDeInteres)
 #Imprimimos el resultado:
 valorActual
+```
 
 ```
 > VF=ValorFuturo(1000,0.02,7)
 > ```
+> 
 > ```
 > P=ValorPresente(1140,0.02,7)
 > ```
+> 
 > ```
 > t=TasaDeInteres(1140,1000,0.02)
 > ```
+> 
 > ```
 > r=Tiempo(1140,0.02,7)
 > ```
