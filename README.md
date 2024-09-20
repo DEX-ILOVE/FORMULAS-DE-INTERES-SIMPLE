@@ -61,7 +61,7 @@ P=ValorPresente(1140,0.02,7)
 ```
 
 ```
-T=TasaDeInteres(1140,1000,0.02)
+T=TasaDeInteres(1140,1000,7)
 ```
 
 ```
