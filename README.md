@@ -53,19 +53,19 @@ valorActual
 ```
 
 ```
-> VF=ValorFuturo(1000,0.02,7)
+VF=ValorFuturo(1000,0.02,7)
 ```
 
 ```
-> P=ValorPresente(1140,0.02,7)
+P=ValorPresente(1140,0.02,7)
 ```
 
 ```
-> T=TasaDeInteres(1140,1000,0.02)
+T=TasaDeInteres(1140,1000,0.02)
 ```
 
 ```
-> R=Tiempo(1140,0.02,7)
+R=Tiempo(1140,0.02,7)
 ```
 
 
